@@ -1,0 +1,6 @@
+{
+  "name": "LinguaLearn",
+  "description": "Online English and French language learning platform with interactive skill modules, online examinations, and role-based dashboards for students, teachers, and administrators.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
